@@ -1,0 +1,6 @@
+flask
+streamlit
+pickle
+numpy
+pandas
+python
